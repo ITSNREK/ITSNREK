@@ -11,12 +11,13 @@ Reverse engineering methodologies
 DMA testing and memory manipulation
 🛠 Tech & Tools
 
-💻 Languages: JavaScript, HTML, (any other languages?)
-🔧 Frameworks & Tools: Next.js, (any other tools you use?)
-🎮 Reverse Engineering & DMA Tools: (List any specific tools like Cheat Engine, IDA Pro, etc.)
-📫 How to Reach Me
+💻 Languages: JavaScript, HTML
+🔧 Frameworks & Tools: Next.js
+🎮 Reverse Engineering & DMA Tools
 
+📫 How to Reach Me
 🌐 Website: www.eulenzirkus.de
 ✉️ Email: hello@eulenzirkus.de
+
 🎯 Goals
 I'm always looking for new challenges, whether it's breaking down game mechanics, improving my web development skills, or testing new DMA techniques. If you're working on something cool, feel free to reach out!
