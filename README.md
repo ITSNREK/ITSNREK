@@ -1,6 +1,22 @@
-👋 Hi, I’m @ITSNREK
-👀 I’m interested in JavaScript, Node.js, and in the future, low-level programming
-🌱 I’m currently learning how to survive
-💞️ I’m looking to collaborate on SaaS Plattforms
-📫 You can reach me on GitHub
-⚡ Fun fact: Did you know an octopus has three hearts and blue blood? When threatened, it can even release ink to escape—an ultimate survival expert! 🐙💙
+👋 Hi, I'm NREK!
+💻 JavaScript | HTML | Next.js | Reverse Engineering | DMA Testing
+
+🚀 About Me
+I'm passionate about web development and game reverse engineering. I enjoy exploring JavaScript, HTML, and Next.js to build dynamic web applications. Additionally, I'm interested in reverse engineering games and DMA testing, constantly pushing the boundaries of understanding how things work under the hood.
+
+🌱 Currently Learning
+
+Advanced Next.js features
+Reverse engineering methodologies
+DMA testing and memory manipulation
+🛠 Tech & Tools
+
+💻 Languages: JavaScript, HTML, (any other languages?)
+🔧 Frameworks & Tools: Next.js, (any other tools you use?)
+🎮 Reverse Engineering & DMA Tools: (List any specific tools like Cheat Engine, IDA Pro, etc.)
+📫 How to Reach Me
+
+🌐 Website: www.eulenzirkus.de
+✉️ Email: hello@eulenzirkus.de
+🎯 Goals
+I'm always looking for new challenges, whether it's breaking down game mechanics, improving my web development skills, or testing new DMA techniques. If you're working on something cool, feel free to reach out!
