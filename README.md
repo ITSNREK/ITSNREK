@@ -9,6 +9,7 @@ I'm passionate about web development and game reverse engineering. I enjoy explo
 Advanced Next.js features
 Reverse engineering methodologies
 DMA testing and memory manipulation
+
 🛠 Tech & Tools
 
 💻 Languages: JavaScript, HTML
