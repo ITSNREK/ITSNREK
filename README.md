@@ -18,7 +18,7 @@ DMA testing and memory manipulation
 
 📫 How to Reach Me
 🌐 Website: www.kernDATA.de
-✉️ Email: github@kerndata.de
+✉️ Email: github@kernDATA.de
 
 🎯 Goals
 I'm always looking for new challenges, whether it's breaking down game mechanics, improving my web development skills, or testing new DMA techniques. If you're working on something cool, feel free to reach out!
