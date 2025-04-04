@@ -10,7 +10,3 @@ Web dev and game reverse engineering enthusiast. I build with JavaScript, HTML, 
 Advanced Next.js
 Reverse engineering
 DMA tools & techniques
-
-📫 Contact
-🌐 www.kernDATA.de
-✉️ github@kernDATA.de
